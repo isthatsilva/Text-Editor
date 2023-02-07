@@ -22,7 +22,7 @@ This application was made to create notes or thoughts without an internet connec
 
 ## Usage
 
-![ScreenShot from application]()
+![ScreenShot from application](./assets/Screenshot%202023-02-06%20at%2021.46.38.png)
 
 ## Links
 
