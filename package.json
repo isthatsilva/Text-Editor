@@ -2,6 +2,9 @@
   "name": "JATE",
   "version": "1.0.0",
   "description": "",
+  "engine": {
+    "node": "16.18.0"
+  },
   "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -22,8 +25,5 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  },
-  "engine": {
-    "node": "16.18.0"
   }
 }
