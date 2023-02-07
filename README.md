@@ -26,7 +26,7 @@ This application was made to create notes or thoughts without an internet connec
 
 ## Links
 
-
+https://challenge-pwa-text-editor.herokuapp.com/
 
 ## License
 
